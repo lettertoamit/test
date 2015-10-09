@@ -7,11 +7,6 @@
       <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
       <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
       <style>
-         #project-label {
-            display: block;
-            font-weight: bold;
-            margin-bottom: 1em;
-         }
          #project-icon {
             float: left;
             height: 32px;
