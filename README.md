@@ -8,3 +8,10 @@ Project for moonbronze.de<br>
 shopify "open pay"  :-- payment gateway myopenpay.com.au   , <a href="https://retailer.myopenpay.com.au/websalestraining/Error?strErrorDetails=Authorisation%20token%20is%20not%20supplied%0ACallback%20URL%20is%20not%20supplied%0ARetailer%20Order%20No%20is%20not%20supplied%0APlan%20ID%20is%20not%20supplied%0APurchase%20Price%20is%20invalid%3A%200&returnUrl=%2Fwebsalestraining%2FPlan%2FNewPlan" > link </a> <br>
 
 videoPlay.com 
+
+https://sentaro.com :-- adding 6 type of API of accounting.
+
+SERVER FIXES :-- i worked on 
+
+fixes :-- centos server ---------- for serserverindia.co.in 
+fiexes :-- zenzi.com : -- rackspace cloud server + ubuntu image
