@@ -1,0 +1,7 @@
+
+.nav.nav-tabs.checkout-tab li:not(:nth-child(2)):not(nth-child(3)):not(active)   
+
+.nav.nav-tabs.checkout-tab li:not(.active):not(:nth-child(2)):not(nth-child(3)) a {
+    color: green !important;
+}
+ 
